@@ -1,0 +1,5 @@
+.links{
+    display: flex;
+    place-content: center;   
+    align-items: center;
+}
